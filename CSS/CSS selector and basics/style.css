@@ -1,0 +1,24 @@
+.red-text{
+    color: red;
+}
+
+p {
+    color: gold;
+}
+
+.myclass {
+    font-size: 20px;
+}
+
+#myid {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+li[value]{
+    color: purple;
+}
+
+* {
+    text-align: center;
+}
