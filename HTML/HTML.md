@@ -55,7 +55,7 @@ Example:
 
 ### Step 3: Adding Links and Images
 
-Links and images are essential in HTML. The `<a>` tag creates a hyperlink, and the `<img>` tag embeds an image.
+Links and images are essential in HTML. The Anchor elements `<a>` tag creates a hyperlink, and Image Elements the `<img>` tag embeds an image.
 
 Example:
 
