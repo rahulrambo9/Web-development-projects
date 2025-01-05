@@ -1,0 +1,17 @@
+[
+    {
+        "age": null,
+        "city": "Mumbai",
+        "name": "Rahul Avhad"
+    },
+    {
+        "age": null,
+        "city": "Navi Mumbai",
+        "name": "Shruti Avhad"
+    },
+    {
+        "age": "27",
+        "city": "Navi Mumbai",
+        "name": "Shruti Avhad"
+    }
+]
