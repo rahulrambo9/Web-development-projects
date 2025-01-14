@@ -1,0 +1,97 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;  
+}
+
+#navtopbar{
+    background-image: linear-gradient(to right, #44dde5, #0e6473);
+    padding: 0 !important;
+}
+.navbar-brand img{
+    height: 50px;
+    padding-left: 1px;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+    font-size: 1.2rem;
+    
+}
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 600;
+}
+
+
+#slider-container{  
+    padding: 30px;
+    margin-bottom: 10px;
+    background-image: linear-gradient(to right, #44dde5, #0e6473);
+}
+
+#intro-slider{
+    margin: 0 auto;
+    height: 300px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #090a0a, #0b0c0c);
+}
+#intro-slider h2{
+    color: azure;
+    font-size: 3rem;
+    font-weight: 300;
+}
+#intro-slider h3{
+    color: rgb(210, 49, 28);
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+.carousel-caption h2{
+    top: 30px;
+    font-size: 3rem;
+    font-weight: 600;
+    
+}
+.carousel-caption p{
+    top: 50px;
+    font-size: 1.5rem;
+    font-weight: 600;
+  
+}
+
+.container{
+    margin-top: 10px;
+    background-image: linear-gradient(to right, #44dde5, #0e6473);
+}
+.card:hover{
+    transform: scale(1.10);
+    transition: all 0.5s;
+    box-shadow: 0 10px 30px rgba(25, 222, 55, 0.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.container img {
+    height: 200px;
+}
+.card-body{
+    background-color: #e8f0f1;  
+    font-size: 1.0rem;
+    font-weight: 600;
+    height: 40px; 
+}
+#category-slider{
+    margin-top: 20px;
+    padding: 100px;
+}
